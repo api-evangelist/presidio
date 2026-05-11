@@ -30,6 +30,37 @@ apis:
 common:
   - type: Website
     url: https://www.presidio.com
+  - type: Integrations
+    url: https://www.presidio.com/partners/
+integrations:
+  - name: aws logo
+  - name: Cisco Partner
+  - name: Dell Technologies Titanium Black Partner
+  - name: microsoft-logo
+  - name: Everpure_Logo_AshGray_RGB
+  - name: Vmware-by-broadcom Grey Logo
+  - name: small-logo
+  - name: crowdstrike logo
+  - name: Cloudflare-logo
+  - name: fortinet logo
+  - name: f5-logo
+  - name: Google Cloud
+  - name: HPE_logo_full-clr_pos_rgb
+  - name: intel logo
+  - name: Nutanix-Logo-Charcoal-Gray-Digital.svg (2)
+  - name: red hat logo
+  - name: rubrik
+  - name: SentinelOne_Logo_RGB_3c_PURP_BLK
+  - name: wiz-logo
+  - name: zscaler logo
+  - name: commvault
+  - name: 2024_igel_logo_blk (1)
+  - name: Juniper_Networks_logo.svg (1)
+  - name: nvidia-elite-partner
+  - name: NetSkope logo
+  - name: radware
+  - name: Schnieder
+  - name: Varonis_Logo_Black
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
