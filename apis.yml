@@ -28,6 +28,8 @@ apis:
     description: >-
       The Presidio Inc API provides access to platform services and data for enterprise integration and automation.
 common:
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/presidio-
   - type: Website
     url: https://www.presidio.com
   - type: Integrations
