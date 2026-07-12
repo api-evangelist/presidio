@@ -28,12 +28,16 @@ apis:
     description: >-
       The Presidio Inc API provides access to platform services and data for enterprise integration and automation.
 common:
+  - type: DomainSecurity
+    url: security/presidio-domain-security.yml
   - type: LinkedIn
     url: https://www.linkedin.com/company/presidio-
   - type: Website
     url: https://www.presidio.com
   - type: Integrations
     url: https://www.presidio.com/partners/
+  - url: https://www.presidio.com/blogs/
+    type: Blog
 integrations:
   - name: aws logo
   - name: Cisco Partner
