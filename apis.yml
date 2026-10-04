@@ -1,6 +1,6 @@
 aid: presidio
 url: https://raw.githubusercontent.com/api-evangelist/presidio/refs/heads/main/apis.yml
-name: Presidio Inc
+name: Presidio
 type: Index
 deliveryModel:
   model: unknown
@@ -93,3 +93,4 @@ integrations:
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
+x-legal-name: Presidio Inc
