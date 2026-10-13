@@ -1,0 +1,23 @@
+generated: '2026-10-13'
+method: searched
+checked:
+- https://aws.amazon.com/marketplace/
+marketplace_apps: []
+edges:
+- partner_name: AWS Marketplace
+  partner: amazon-web-services
+  partner_match: aggregator
+  type: marketplace
+  marketplace: aws-marketplace
+  channel: distribution
+  relationship: platform-app
+  direction: provider-built
+  evidence: https://aws.amazon.com/marketplace/seller-profile?id=a844a964-a83a-4e77-83c1-069ab227cb94
+  listing_count: 3
+  apps:
+  - Presidio Advisor
+  - Presidio & Cisco XDR Implementation Software and Services
+  - 'Presidio Zscaler Implementation Services: Zscaler Zero Trust with AI-Driven Control'
+  seller_name: Presidio
+  detected_by: sweep-cloud-marketplaces.py
+  detected: '2026-10-13'
